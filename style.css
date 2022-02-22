@@ -13,11 +13,11 @@ section{
     margin-bottom: 150px;
 }
 .half-width{
-    width: 50%;
-    padding-left: 5%;
+    width: 40%;
+    padding-left: 10%;
 }
 .half-width img{
-    width: 30%;
+    width: 40%;
 }
 .link-button{
     text-decoration: none;
@@ -30,4 +30,7 @@ section{
 .top-banner{
     background-image: url(photo/272672273_3179086285707749_4000670306863932944_n.jpg);
     background-repeat: no-repeat;
+}
+.dream-big{
+
 }
